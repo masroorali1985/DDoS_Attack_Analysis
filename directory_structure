@@ -1,0 +1,7 @@
+ddos_analysis/
+│
+├── main.py
+├── config.py
+├── ssh_operations.py
+├── analysis.py
+└── report.py
